@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+  <ResourceLink name="jdbc/soc_net"
+            global="jdbc/soc_net"
+            type="javax.sql.DataSource"/>
+</Context>
